@@ -1,3 +1,13 @@
+This is the Earth orbit model code as described in the following publication:
+
+Kostadinov, T. S. and Gilb, R.: Earth Orbit v2.1: a 3-D visualization and analysis model of Earth's orbit, Milankovitch cycles and insolation, Geosci. Model Dev., 7, 1051-1068, doi:10.5194/gmd-7-1051-2014, 2014. 
+
+The code posted here is the same as the code in the Supplement to this publication (http://www.geosci-model-dev.net/7/1051/2014/gmd-7-1051-2014-supplement.zip), with the exception of a minor fix to Earth_orbit_v2_1.m to correct a plot clipping issue.
+
+For instructions of use, refer to the publication cited above and the original ReadMe.txt file (contents given here immediately below). 
+
+Original ReadMe.txt file: -->  
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++  Earth Orbit Model v2.1 Discalimer, License and Instructions for Use  +++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -20,7 +30,7 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Reference: When available, consult the final revised version of: 
-T. S. Kostadinov and R. Gilb (2013), Earth Orbit v2.1: a 3-D visualization and analysis model of Earth’s orbit, Milankovitch cycles and insolation,
+T. S. Kostadinov and R. Gilb (2013), Earth Orbit v2.1: a 3-D visualization and analysis model of Earthâ€™s orbit, Milankovitch cycles and insolation,
 Geosci. Model Dev. Discuss., 6, 5947-5980, 2013, www.geosci-model-dev-discuss.net/6/5947/2013/
 doi:10.5194/gmdd-6-5947-2013
 
